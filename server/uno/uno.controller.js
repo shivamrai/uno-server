@@ -1,22 +1,22 @@
 class UnoController {
-  createNewGame() {
+  createNewGame(request, response) {
 
   }
 
-  joinGame() {
+  joinGame(request, response) {
 
   }
 
-  playerReady() {
+  playerReady(request, response) {
 
   }
 
-  playerSkip() {
+  playerSkip(request, response) {
 
   }
 
-  playerMove() {
-    
+  playerMove(request, response) {
+
   }
 };
 
